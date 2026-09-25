@@ -39,7 +39,7 @@
 ### PART 01. 리눅스 환경 구축
 
 - [x] [CHAPTER 01. 리눅스 개요와 실습환경 구축](./chapter01-linux-intro/README.md)
-- [ ] [CHAPTER 02. 리눅스 사용 기초](./chapter02-linux-basic/README.md)
+- [x] [CHAPTER 02. 리눅스 사용 기초](./chapter02-linux-basic/README.md)
 
 ### PART 02. 리눅스 기초
 
