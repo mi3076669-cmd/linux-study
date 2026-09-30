@@ -43,7 +43,7 @@
 
 ### PART 02. 리눅스 기초
 
-- [ ] [CHAPTER 03. 디렉터리와 파일 사용](./chapter03-file-directory/README.md)
+- [x] [CHAPTER 03. 디렉터리와 파일 사용](./chapter03-file-directory/README.md)
 - [ ] [CHAPTER 04. 문서 편집기 사용](./chapter04-text-editor/README.md)
 - [ ] [CHAPTER 05. 셸 사용법](./chapter05-shell/README.md)
 - [ ] [CHAPTER 06. 파일 접근 권한 관리](./chapter06-file-permission/README.md)
